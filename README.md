@@ -1,7 +1,7 @@
 ## Unix System Prog. & Complier Design Lab (VTU-10CSL68)
 
 ### Index
- 1. 3D Sierpinski    
+ 1. POSIX limits    
  2. Feature Test Macro    
  3. File Locking and Unlocking
  4. Interprocess Communication
