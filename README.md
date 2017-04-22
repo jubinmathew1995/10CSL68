@@ -5,8 +5,8 @@
  2. Feature Test Macro    
  3. File Locking and Unlocking
  4. Interprocess Communication
- 5a. [Enviroment list](https://raw.githubusercontent.com/SubhrajyotiSen/10CSL68/master/5a.c)    
- 5b. Emulate ln command
+ 5. a. [Enviroment list](https://raw.githubusercontent.com/SubhrajyotiSen/10CSL68/master/5a.c)    
+    b. Emulate ln command
  6. [Race Condition](https://raw.githubusercontent.com/SubhrajyotiSen/10CSL68/master/6.c)
  7. [Zombie Process](https://raw.githubusercontent.com/SubhrajyotiSen/10CSL68/master/7.c)
  8. [Avoid Zombie Process by Forking Twice](https://raw.githubusercontent.com/SubhrajyotiSen/10CSL68/master/8.c)
